@@ -1,0 +1,11 @@
+body {
+    background-image: url("blackboardBackground.jpg");
+    color: #e0dbd1;
+}
+#navbar-coal {
+    background-color: #36454f;
+}
+
+.topRow {
+    margin-top: 5%;
+}
